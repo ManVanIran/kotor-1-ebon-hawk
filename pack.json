@@ -1,0 +1,10 @@
+{
+  "name": "kotor 1 ebon hawk",
+  "description": "by jeremy soule",
+  "author": "ManVanIran",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
